@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>AuthSAML2</name>
+        <type>plugin</type>
+        <creationDate>2022-02-19</creationDate>
+        <lastUpdate>2025-01-13</lastUpdate>
+        <author>Sixto Martin</author>
+        <authorUrl>http://saml.info</authorUrl>
+        <version>1.5.0</version>
+        <license>Commercial</license>
+        <description><![CDATA[Plugin: SAML authentication based on php-saml]]></description>
+        <supportUrl>https://saml.info</supportUrl>
+    </metadata>
+
+    <compatibility>
+        <version>6.0</version>
+        <version>5.0</version>
+        <version>4.0</version>
+    </compatibility>
+
+    <updaters disabled="disabled">
+    </updaters>
+</config>
